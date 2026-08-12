@@ -29,7 +29,7 @@ function validate(){
         return false
     }
 
-    alert('form submitted successfuly')
+    alert('form submitted')
 
 
     return true
